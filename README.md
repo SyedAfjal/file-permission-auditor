@@ -27,7 +27,7 @@ The Bash script performs two main tasks:
 
 ## **Script Execution Output**  
 
-![Insert script_output.png here]  
+<img width="457" alt="Image" src="https://github.com/user-attachments/assets/9423901d-d48a-48d5-9a4d-563bb2b77630" />
 
 ### **What the Script Did:**  
 - Scanned the directory and found **15 insecure files**.  
@@ -40,7 +40,7 @@ Now, the directory is secured, and a backup has been generated for future recove
 
 ## **Updated Directory State (After Running the Script)**  
 
-![Insert directory_after.png here]  
+<img width="369" alt="Image" src="https://github.com/user-attachments/assets/f170e549-e028-4114-806a-dc011275ed0f" />
 
 After running the script, you can see that:  
 - **All files now have appropriate permissions (`640`)**, making them **only readable/writable by the owner and readable by the group**.  
@@ -73,7 +73,4 @@ To use the script on any directory:
 - **Practiced automating security fixes** with Bash scripting.  
 - **Gained experience with creating and managing backups** using `tar`.  
 
----
-
-This was a great hands-on project to **improve Linux security skills** and automate important system tasks! 🚀
 
