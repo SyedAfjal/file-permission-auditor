@@ -6,7 +6,7 @@ This project focuses on securing files in a given directory by identifying those
 ---
 
 ## **Initial Directory State (Before Running the Script)**  
-Note: This project was executed in a Virtual Machine (VirtualBox) running Kali Linux, ensuring a safe and controlled environment for testing file permissions and backups
+**Note:** This project was executed in a Virtual Machine (VirtualBox) running Kali Linux, ensuring a safe and controlled environment for testing file permissions and backups
 
 <img width="303" alt="Image" src="https://github.com/user-attachments/assets/f6dadc44-830f-471c-ad75-305cf94cd3b9" />
 
